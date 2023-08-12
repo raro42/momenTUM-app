@@ -74,7 +74,7 @@ Install global npm packages:
 Navigate to the momenTUM-app folder and install the dependencies:
 
       cd /path/to/momenTUM-app
-      npm i
+      npm ci
 
 ## Build and run project
 
