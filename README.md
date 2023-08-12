@@ -69,12 +69,12 @@ Navigate to the destination of your project and clone the GitHub repository:
 
 Install global npm packages:
 
-      npm i -g @ionic/cli @angular/cli native-run cordova-res
+      npm ci -g @ionic/cli @angular/cli native-run cordova-res
 
 Navigate to the momenTUM-app folder and install the dependencies:
 
       cd /path/to/momenTUM-app
-      npm i
+      npm ci
 
 ## Build and run project
 
